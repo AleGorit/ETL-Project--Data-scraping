@@ -4,7 +4,7 @@ This project demonstrates a full ETL (Extract, Transform, Load) pipeline for scr
 
 ## 🚀 Project Overview
 
-This repository contains a Jupyter Notebook that:
+This project:
 - **Extracts** housing data through web scraping
 - **Transforms** the data using Python for cleaning and formatting
 - **Loads** the final dataset into **Snowflake**
