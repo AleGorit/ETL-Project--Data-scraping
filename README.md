@@ -41,9 +41,5 @@ The goal is to automate the data ingestion process for property listings, making
    * Commit the final dataset to a Snowflake schema for downstream analytics
 
 
-## 📌 Notes
-
-* Web scraping should comply with the target website's terms of service.
-* The ETL pipeline is currently set up for batch loads but can be adapted for scheduled or streaming ingestion.
 
 
